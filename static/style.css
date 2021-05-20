@@ -3,7 +3,6 @@ body{
   /* background: linear-gradient(to top right, #29323c 20%, #485563 60%); */
   background-repeat: no-repeat;
   background-size: 100% 150%;
-  /* margin-left: 500px; */
 }
 
 
@@ -18,6 +17,7 @@ body{
 .Vince{
   max-width: 400px
 }
+
 
 .UO{
   max-width: 400px
