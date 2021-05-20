@@ -1,0 +1,29 @@
+body{
+  background: linear-gradient(to bottom right, #33ccff -30%, #ff99cc 95%);
+  /* background: linear-gradient(to top right, #29323c 20%, #485563 60%); */
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+  /* margin-left: 500px; */
+}
+
+
+.box1{
+  color: #f4f4f4;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 20px;
+}
+
+
+.Vince{
+  max-width: 400px
+}
+
+.UO{
+  max-width: 400px
+}
+
+
+.sport{
+  max-width: 400px
+}
